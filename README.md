@@ -12,7 +12,7 @@ RockPaperChain is a fully on-chain Rock, Paper, Scissors game built on Solidity.
 1️⃣ Create a Game
 solidity
 Копировать 
-Редактировать 
+Редактировать  
 createGame();
 You become Player 1.
 The game is open for a second player.
