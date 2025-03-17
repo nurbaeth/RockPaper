@@ -17,7 +17,7 @@ createGame();
 You become Player 1.
 The game is open for a second player.
 2️⃣ Join a Game
-solidity
+solidity 
 Копировать
 Редактировать
 joinGame(gameId);
