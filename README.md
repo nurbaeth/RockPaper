@@ -7,7 +7,7 @@ RockPaperChain is a fully on-chain Rock, Paper, Scissors game built on Solidity.
 ✅ Trustless & Transparent – All moves are recorded on-chain.
 ✅ Time-Limited Rounds – Players must reveal within 10 minutes.
 ✅ Leaderboard Ready – Can be expanded for on-chain score tracking. 
-
+ 
 📜 How It Works 
 1️⃣ Create a Game 
 solidity  
