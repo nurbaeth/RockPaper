@@ -9,7 +9,7 @@ RockPaperChain is a fully on-chain Rock, Paper, Scissors game built on Solidity.
 ✅ Leaderboard Ready – Can be expanded for on-chain score tracking. 
  
 📜 How It Works 
-1️⃣ Create a Game 
+1️⃣ Create a Game  
 solidity  
 Копировать  
 Редактировать    
